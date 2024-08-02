@@ -1,7 +1,7 @@
 import requests
 
 city = "London"
-key = "ee16e3c2c7f14c63951150014240208"
+key = "123"
 
 url =  "http://api.weatherapi.com/v1/current.json?key=" + key + "&q=" + city + "&aqi=no"
 
